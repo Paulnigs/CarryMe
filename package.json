@@ -1,0 +1,23 @@
+{
+  "name": "carryme-gym",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --configLoader runner",
+    "build": "vite build --configLoader runner",
+    "preview": "vite preview --configLoader runner"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^11.18.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "playwright-core": "^1.61.1",
+    "vite": "^6.0.5"
+  }
+}
