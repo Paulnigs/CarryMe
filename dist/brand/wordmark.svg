@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 100" role="img" aria-labelledby="title">
-  <title id="title">CarryMe</title>
-  <g transform="translate(2 2)">
-    <circle cx="48" cy="48" r="40" fill="none" stroke="#c8783d" stroke-width="9" stroke-linecap="square" stroke-dasharray="192 60" transform="rotate(39 48 48)"/>
-    <path d="M27 66V34l21 21 21-21v32" fill="none" stroke="#f0eadf" stroke-width="8"/>
-  </g>
-  <text x="112" y="68" fill="#f0eadf" font-family="Arial Black, Arial, sans-serif" font-size="55" font-weight="900" letter-spacing="-3">CARRYME</text>
-</svg>
